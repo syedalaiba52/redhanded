@@ -29,3 +29,12 @@
    ```bash
    git clone [https://github.com/your-username/redhanded-bootstrap-website.git](https://github.com/your-username/redhanded-bootstrap-website.git)
    ```
+
+## 📸 Project Structure
+
+```text
+├── assets/             # Isme sari images aur icons hain
+├── index.html          # Main HTML structure ki file
+├── style.css           # Custom CSS aur designing
+└── README.md           # Project ki details
+```
