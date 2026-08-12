@@ -30,11 +30,12 @@
    git clone [https://github.com/your-username/redhanded-bootstrap-website.git](https://github.com/your-username/redhanded-bootstrap-website.git)
    ```
 
-## 📸 Project Structure
+## 📂 Project Structure
 
 ```text
-├── assets/             # Isme sari images aur icons hain
-├── index.html          # Main HTML structure ki file
-├── style.css           # Custom CSS aur designing
-└── README.md           # Project ki details
+redhanded-bootstrap-website/
+├── assets/             # Project assets (images, icons, and SVG files)
+├── index.html          # Main HTML document and layout structure
+├── style.css           # Custom CSS styles, variables, and overrides
+└── README.md           # Project documentation and details
 ```
