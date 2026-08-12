@@ -1,0 +1,102 @@
+* {
+  font-family: "Outfit", sans-serif;
+}
+
+:root {
+  --blue-color: #007bff;
+  --navy-color: #08395d;
+  --white-color: #ffffff;
+  --dark-color: #000000;
+  --maroon-color: #a80000;
+  --charcoal-color: #212529;
+  --azure-color: #00acff;
+  --transition: all ease-in 0.15s;
+}
+
+/* Navbar */
+/* .navbar {
+  height: 4.5rem;
+} */
+
+.redhanded-logo {
+  color: var(--maroon-color);
+  letter-spacing: 4px;
+}
+
+.redhanded-logo:hover {
+  color: var(--maroon-color);
+}
+
+.redhanded-nav {
+  font-size: 14px !important;
+}
+
+.redhanded-login-btn {
+  border: 1px solid var(--maroon-color);
+  color: var(--maroon-color) !important;
+}
+
+.redhanded-login-btn:hover {
+  color: var(--white-color) !important;
+  background-color: var(--maroon-color);
+}
+
+.redhanded-signup-btn:hover {
+  color: var(--charcoal-color) !important;
+  background-color: var(--white-color);
+}
+
+/* Hero */
+.redhanded-hero-section {
+  background-image: url(./assets/hero-image.png);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
+
+.redhanded-hero-primary-btn {
+  background-color: var(--maroon-color);
+  border: 2px solid transparent;
+}
+
+.redhanded-hero-primary-btn:hover {
+  background-color: #890b0b;
+  border: 2px solid transparent;
+}
+
+.redhanded-hero-secondary-btn {
+  background-color: var(--blue-color);
+  border: 2px solid transparent;
+}
+
+.redhanded-searchbar {
+  background-color: var(--navy-color);
+}
+
+/* Video Section */
+.redhanded-video-section {
+  background-image: url(./assets/advantage\ bg\ image.png);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.advantage-list {
+  list-style-type: decimal-leading-zero;
+}
+
+.redhanded-work-section {
+    background-image: url(./assets/work\ bg\ image.png);
+}
+
+/* testimonial */
+.redhanded-testimonial-section {
+    background-color: var(--navy-color);
+}
+
+/* Footer */
+.redhanded-footer-section {
+    background-color: var(--dark-color);
+}
