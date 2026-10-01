@@ -1,41 +1,32 @@
-# 🏢 RedHanded - Commercial Real Estate Leasing Platform
+# RedHanded-Inspired Website
 
-**RedHanded** is a modern, fully responsive web template designed for commercial real estate leasing. The platform connects property owners (landlords) directly with business owners (tenants), enabling seamless negotiation and lease execution without traditional real estate brokers or high commission fees.
-
----
+A responsive commercial real estate website inspired by RedHanded, recreated as a frontend practice project using HTML, CSS, and Bootstrap 5.
 
 ## ✨ Features
 
-- 🔍 **Location Search:** Quick property search bar by City or State.
-- 🏙️ **Browse Spaces:** Interactive Bootstrap carousel featuring top commercial listings with pricing, square footage, and location details.
-- 🛠️ **How It Works:** Simple 4-step workflow (_List, Connect, Negotiate, Close_) for transparent leasing.
-- 💬 **Testimonials Section:** Social proof highlighting feedback from property managers and entrepreneurs.
-- 📱 **Fully Responsive:** Smooth layout across desktop, tablet, and mobile devices built with Bootstrap 5.
+* Responsive design
+* Property search section
+* Property listing carousel
+* How It Works section
+* Testimonials section
+* Mobile-friendly layout
 
----
+## 🛠️ Technologies Used
 
-## 🛠️ Tech Stack
-
-- **HTML5 & CSS3:** Custom styles and CSS variables.
-- **Bootstrap 5.3:** Responsive grid system, buttons, cards, and carousel components.
-- **Google Fonts:** Outfit font family.
-- **Icons:** Font Awesome & Bootstrap SVGs.
-
----
+* HTML5
+* CSS3
+* Bootstrap 5
+* Google Fonts
+* Font Awesome
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/redhanded-bootstrap-website.git](https://github.com/your-username/redhanded-bootstrap-website.git)
-   ```
+Clone the repository and open `index.html` in your browser.
 
-## 📂 Project Structure
+## 🌐 Live Demo
 
-```text
-redhanded-bootstrap-website/
-├── assets/             # Project assets (images, icons, and SVG files)
-├── index.html          # Main HTML document and layout structure
-├── style.css           # Custom CSS styles, variables, and overrides
-└── README.md           # Project documentation and details
-```
+[View Live Website](YOUR_LIVE_LINK)
+
+## 📌 Purpose
+
+This project was created for frontend practice and to improve my skills in HTML, CSS, and Bootstrap.
